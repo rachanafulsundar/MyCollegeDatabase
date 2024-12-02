@@ -13,10 +13,6 @@ This project involves creating and managing the **MyCollege** database using SQL
 5. [Essential SQL Skills](#essential-sql-skills)
 6. [Advanced SQL Skills](#advanced-sql-skills)
 7. [Technologies Used](#technologies-used)
-8. [Setup Instructions](#setup-instructions)
-9. [How to Use](#how-to-use)
-10. [Remarks](#remarks)
-11. [Author](#author)
 
 ---
 
